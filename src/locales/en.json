@@ -1,0 +1,19 @@
+{
+    "1":"Enter Email",
+    "2":"Enter Password",
+    "3":"Login",
+    "4":"Please, Enter a Email Address",
+    "5":"Please, Enter a Password",
+    "6":"Forgot Password?",
+    "7":"Downloading!",
+    "8":"Stop",
+    "9":"100",
+    "10":"Verify",
+    "11":"Back to Login!",
+    "12":"e.g. 123456",
+    "13":"Authentication Code",
+    "14":"Two Factor Authentication",
+    "15":"To login, enter below the six-digit authentication code provided by your Authenticator app",
+    "16":"Learn More",
+    "17":"Please, Enter a valid OTP code"
+}
